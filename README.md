@@ -1,1 +1,0 @@
-# SAKIYOMI-daihon-demo-cs
